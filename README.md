@@ -11,8 +11,6 @@ EmpowerHub is an AI-powered platform designed to provide career and education gu
 🔗 Links
 
 - **🚀 Live Demo:** [EmpowerHub Live](https://empower-hub-deployed-version.vercel.app/)
-- **📂 GitHub Repository:** [EmpowerHub GitHub](https://github.com/zubair-mallick/EMPOWER_HUB)
-- **🔗 LinkedIn Profile:** [Zubair Mallik](https://www.linkedin.com/in/zubair-mallik/)
 - **🎥 Live Video Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=T9yFRml18Zo\&ab_channel=ZubairMallik)
 
 ---
